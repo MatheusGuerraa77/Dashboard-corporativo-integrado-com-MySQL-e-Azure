@@ -49,3 +49,41 @@ Primeiramente todos trabalho será realizado em uma base de dados de teste. Em s
 ![image](https://github.com/user-attachments/assets/ee8470a5-dce0-42e3-b8bb-b02cb18a580e)
 ![image](https://github.com/user-attachments/assets/a52fa0dd-6dd6-4277-8b24-2aa8a3620f8b)
 ##### 3. Integrando Power BI com MySQL na Azure
+![image](https://github.com/user-attachments/assets/d9d34443-b6e0-4d00-88b1-6841609b4576)
+
+##### 4. Transformação dos dados:
+-modificação dos valores monetários para o tipo double preciso
+![image](https://github.com/user-attachments/assets/064b7c4a-45cb-4a22-a9eb-7dae161fadc7)
+- Há um colaborador sem ser gerente:
+![image](https://github.com/user-attachments/assets/79cf693d-0765-4224-891c-ac7c6251a5df)
+![image](https://github.com/user-attachments/assets/b4abd6aa-00b2-4fc3-84b4-28274d5fe31e)
+
+-Todos departamentos tem gerentes:
+![image](https://github.com/user-attachments/assets/f41161d0-0012-4641-b847-e169e649c0ac)
+-número de horas do projeto:
+![image](https://github.com/user-attachments/assets/94a13ad6-d3f0-48cb-a63a-dd33400c682b)
+- separar colunas complexas
+-Colunas complexas como endereço foram separadas:
+![image](https://github.com/user-attachments/assets/52069f6c-d9ee-4c1e-acf5-32f66a8f237a)
+
+-mescla colaboraddores e nome dos gerentes:
+![image](https://github.com/user-attachments/assets/7c700c84-3cd2-4461-96ea-677b8a711953)
+-mescla nome e sobrenome:
+![image](https://github.com/user-attachments/assets/f096f5be-37cd-42c8-bc47-d49eaf914f32)
+-mescla nome de departamento e localização:
+![image](https://github.com/user-attachments/assets/e14e1aa8-3a30-427b-9a6a-c9ce07b95e3d)
+-exibição do modelo:
+![image](https://github.com/user-attachments/assets/d8aa6697-3e3a-4268-8968-c2468e701440)
+##### 5. Explicação:
+![image](https://github.com/user-attachments/assets/2dd466b7-0e68-4c42-973c-196198a5f791)
+- Neste caso, onde você tem dados de "Gerente" e "Colaborador" ou "Store" e "December", utilizar o recurso mesclar é mais apropriado do que atribuir. O motivo é que, ao mesclar consultas no Power BI, você está combinando dados de diferentes tabelas com base em uma chave ou coluna comum, mantendo a relação entre elas. Isso possibilita a criação de novas colunas combinando dados de várias tabelas.
+
+- Já o ato de atribuir seria mais usado para modificar ou renomear colunas e valores dentro de uma única tabela, não agregando informações de múltiplas fontes. Como o objetivo aqui parece ser unir e agregar dados de diferentes conjuntos, a mesclagem é a abordagem correta, preservando as referências cruzadas entre as tabelas.
+
+
+
+
+
+
+
+
