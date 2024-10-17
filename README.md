@@ -1,10 +1,10 @@
 # Dashboard corporativo integrado com MySQL e Azure
  O intuito desse projeto junto à Dio e NTT Data foi a criação de uma instância na Azure para MySQL, criação do banco de dados com base no script fornecido, integrar o Power BI com o MySQL no Azure e por fim verificar problemas na base de dados a fim de realizar a transformação desses dados.
  
-passo 1: configuração do Azure
-passo 2: Popular servidor com script fornecido
-passo 3: Integrar SQL com Power BI
-passo 4: Realizado o passo Transformação do ETL
+- passo 1: configuração do Azure
+- passo 2: Popular servidor com script fornecido
+- passo 3: Integrar SQL com Power BI
+- passo 4: Realizado o passo Transformação do ETL
 
 ![image](https://github.com/user-attachments/assets/2dc11931-3acb-4150-bdb8-b12010bec98b)
 
