@@ -3,7 +3,7 @@
  
 - passo 1: configuração do Azure
 - passo 2: Popular servidor com script fornecido
-- passo 3: Integrar SQL com Power BI
+- passo 3: Integrar MySQL com Power BI
 - passo 4: Realizado o passo Transformação do ETL
 
 ![image](https://github.com/user-attachments/assets/2dc11931-3acb-4150-bdb8-b12010bec98b)
