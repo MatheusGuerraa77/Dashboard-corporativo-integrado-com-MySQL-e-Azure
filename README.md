@@ -45,3 +45,7 @@ Primeiramente todos trabalho será realizado em uma base de dados de teste. Em s
 ![image](https://github.com/user-attachments/assets/19b12786-b304-4ccf-973c-d8ff8d5a44d5)
 ![image](https://github.com/user-attachments/assets/01f879e9-c57b-48e3-9e21-756ba9740c94)
 
+##### 2. Conectando MySQL na Azure
+![image](https://github.com/user-attachments/assets/ee8470a5-dce0-42e3-b8bb-b02cb18a580e)
+![image](https://github.com/user-attachments/assets/a52fa0dd-6dd6-4277-8b24-2aa8a3620f8b)
+##### 3. Integrando Power BI com MySQL na Azure
